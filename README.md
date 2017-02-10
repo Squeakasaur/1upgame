@@ -38,6 +38,8 @@ Textbox that aren’t you (the player), will be accompanied by profiles (picture
 
 **Description of Player Actions and Decisions**:
 Because the player is lost and without a way to communicate with anyone, they are left only with a few items in their backpack. These items change, move  based on the situation.
+_ _ _
+
 **Educational Considerations**:
 Prior Knowledge or Skills Required (if any):  None. The purpose of the game is to educate the player on the Ruaha project. The actual gameplay will be very simple and the only skills needed will be the ability to read or have someone read for them. 
 Learning Outcomes (content related or process related and/or scaffolded externally, esp. if your answer below is in school): The game will provide simple facts about the animals that the player encounters including how the Ruaha project is protecting them. 
