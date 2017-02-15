@@ -71,7 +71,7 @@ if(keyboard_check(vk_down)){
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_thornBush">
+    <event eventtype="4" ename="obj_invBlock">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -90,6 +90,29 @@ if(keyboard_check(vk_down)){
             <kind>1</kind>
             <string>/// Collision
 
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_thornBush">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>/// Collision
 </string>
           </argument>
         </arguments>
@@ -158,9 +181,9 @@ if(keyboard_check(vk_down)){
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <point>24,42</point>
-    <point>34,42</point>
-    <point>34,64</point>
+    <point>24,44</point>
+    <point>36,44</point>
+    <point>36,64</point>
     <point>24,64</point>
   </PhysicsShapePoints>
 </object>

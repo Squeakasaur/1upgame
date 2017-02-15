@@ -28,11 +28,12 @@
     <object>objects\obj_tree</object>
     <object>objects\obj_thornBush</object>
     <object>objects\obj_menu</object>
+    <object>objects\obj_invBlock</object>
+    <object>objects\obj_NoGo</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menu</room>
     <room>rooms\rm_one</room>
-    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
